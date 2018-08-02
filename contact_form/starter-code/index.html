@@ -10,18 +10,33 @@
 
   <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 
+<form class="text-center">
   <h1>Contact me</h1>
+    <div class="row">
+      <div class="col-md-6">
+            <div><input class="form-control spacing" type="text" name="name" placeholder="Name"></input></div>
+            <div><input class="form-control spacing" type="text" name="name" placeholder="Email Address"></input></div>
+            <div><input class="form-control spacing" type="text" name="name" placeholder="Subject"></input></div>
+      </div>
+      <div class="col-md-6">
+        <textarea placeholder="Message"></textarea>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-md-12">
+        <button type="submit" class="btn btn-success">Submit</button>
+      </div>
+    </div>
+</form>
 
 
 <!--   Put your HTML here! -->
-
-
-
 </body>
 </html>
