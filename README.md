@@ -1,12 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) HTML Forms (90 mins)
-
-| Timing | Type | Topic |
-| --- | --- | --- |
-| 10 mins | [Introduction](#introduction) | HTML Forms |
-| 15 mins | [Demo/Codealong](#demo) | Your First Form |
-| 20 mins | [Introduction](#intro-common-inputs) | Common Inputs |
-| 40 mins | [Independent Practice](#ind-practice) | Contact Form |
-| 5 mins | [Conclusion](#conclusion) | Conclusion|
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) HTML Forms 
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
@@ -17,8 +9,7 @@
 ***
 
 <a name="introduction"></a>
-## Introduction: HTML Forms (10 mins)
-
+## Introduction: HTML Forms
 ## Why is this important?
 *This workshop is important because:*
 
@@ -62,7 +53,7 @@ In the opening of the `<form>` tag, you can see two attributes: `method` & `acti
 ***
 
 <a name="demo"></a>
-## Codealong: Your First Form (15 mins)
+## Codealong: Your First Form 
 <!--Is this something that the instructor is leading the student through?  -->
 ### Challenge: Doomed?
 
@@ -77,7 +68,7 @@ Create an html `form` that, on submit, sends the user to "hasthelargehadroncolli
 ```
 
 <a name="intro-common-inputs"></a>
-## Introduction: Common Inputs (20 minutes)
+## Introduction: Common Inputs 
 
 | Field Type | HTML Code | Widget (Control) | Notes |
 |:-- |:-- |:-- |:-- |
@@ -123,7 +114,7 @@ Create an html `form` that, on submit, sends the user to "hasthelargehadroncolli
 ***
 
 <a name="ind-practice"></a>
-## Independent Practice: Contact Form (40 minutes)
+## Independent Practice: Contact Form 
 Using the [provided starter code](contact_form/starter-code), build and style a simple form that follows the mockup below.
 
 # ![contact form mockup](assets/contact_form.png)
@@ -135,7 +126,7 @@ If you finish early, make the form responsive, like so:
 ***
 
 <a name="conclusion"></a>
-## Conclusion (5 mins)
+## Conclusion
 As of now, we understand how to build and style forms – but not how to save any of the data a user types in. Forms will take on a whole new level of interactivity when we introduce JavaScript in upcoming lessons.
 
 ***
